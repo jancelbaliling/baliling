@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="350" height="300">
+
+</body>
+</html>
